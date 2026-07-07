@@ -86,20 +86,6 @@ The following visualizations were created:
 
 ---
 
-## 📁 Project Structure
-
-```text
-apple-product-price-analysis/
-│
-├── Apple_Product_Price_Analysis.ipynb
-├── apple_products_pricing_2020_2026.csv
-├── requirements.txt
-├── README.md
-└── images/
-```
-
----
-
 ## 🚀 Future Improvements
 
 * Build an interactive dashboard using Power BI or Tableau.
